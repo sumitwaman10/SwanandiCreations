@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // Prepare the WhatsApp link with pre-filled message
             const whatsappMessage = encodeURIComponent(orderSummary);
-            const whatsappPhoneNumber = '+917507420295';  // Replace with your WhatsApp phone number (e.g., '+1234567890')
+            const whatsappPhoneNumber = '+919561301072';  // Replace with your WhatsApp phone number (e.g., '+1234567890')
             const whatsappLink = `https://wa.me/${whatsappPhoneNumber}?text=${whatsappMessage}`;
 
             // Set the WhatsApp button link
